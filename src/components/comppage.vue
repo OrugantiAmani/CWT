@@ -4,8 +4,7 @@
     <div class="row bgwhite compdiv margin-20-bottom">
       <div class="col-md-12 pad-0" style="display: flex">
         <div class="inlineBlock icon-width-40 text-center-xs">
-          <i class="icon icon-info-outline-circled icon-size-medium txtBlue">
-          </i>
+          <i class="icon icon-info-outline-circled icon-size-medium txtBlue"></i>
         </div>
         <div
           class="inlineBlock pad-19-left no-pad-left-xs content-width valign-top"
